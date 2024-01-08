@@ -1,0 +1,137 @@
+section {
+    display: flex;
+    justify-content: center;
+}
+
+.a1 {
+    padding-top: 50px;
+}
+
+.rectangle {
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+}
+
+.bgimg {
+    background-image: url(resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+}
+
+#t1 {
+    text-align: center;
+    color: white;
+    font-size: 32px;
+    font-family: Merriweather;
+    font-weight: 400;
+    padding-top: 177px;
+}
+
+#t2 {
+    text-align: center;
+    color: white;
+    font-size: 72px;
+    font-family: Merriweather;
+    font-weight: 900;
+    line-height: 95px;
+    word-wrap: break-word;
+    padding-left: 344px;
+    padding-right: 344px;
+    padding-bottom: 177px;
+}
+
+.pos {
+    padding-left: 344px;
+    padding-right: 344px;
+}
+
+.discount {
+    text-align: center;
+    color: #FF0000;
+    font-size: 88px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+    padding-top: 120px;
+}
+
+.det {
+    text-align: center;
+    color: #FF0000;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+    padding-top: 48px;
+}
+
+.ohd {
+    text-align: center;
+    color: #070211;
+    font-size: 48px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+    padding-top: 16px;
+}
+
+.hny {
+    padding-top: 48px;
+}
+
+.a2 {
+    padding-top: 120px;
+}
+
+.bgimg2 {
+    background-image: url(resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+}
+
+.midnight {
+    color: white;
+    font-size: 64px;
+    font-family: Merriweather;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    word-wrap: break-word;
+    padding-top: 126px;
+    padding-left: 126px;
+}
+
+.invited {
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: 30px;
+    word-wrap: break-word;
+    padding-top: 24px;
+    padding-left: 126px;
+    padding-right: 39.17px;
+}
+
+.joinnow {
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    text-transform: uppercase;
+    word-wrap: break-word;
+    padding-top: 48px;
+    padding-left: 158px;
+}
+#t4{
+    padding-top: 68.11px;
+    padding-right: 138px;
+}
+
+.col {
+    display: flex;
+    justify-content: center;
+}
