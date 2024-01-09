@@ -287,3 +287,20 @@ section {
     position: absolute;
     padding-right: 600px;
 }
+
+#tbg {
+    color: #FF0000;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+#oap {
+    color: #070211;
+    font-size: 48px;
+    font-family: Merriweather;
+    font-weight: 900;
+    text-transform: capitalize;
+    word-wrap: break-word;
+}
