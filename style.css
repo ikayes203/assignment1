@@ -1,3 +1,7 @@
+body{
+    width: 1600px;
+    height: 7335px;
+}
 section {
     display: flex;
     justify-content: center;
@@ -230,6 +234,6 @@ section {
 }
 
 .img2 {
-    padding-top: 16px;
+    padding-top: 43px;
     padding-right: 136px;
 }
