@@ -2,7 +2,10 @@ body {
     width: 1600px;
     height: 7335px;
 }
-
+footer{
+    width: 1600px;
+    height: 609px;
+}
 section {
     display: flex;
     justify-content: center;
