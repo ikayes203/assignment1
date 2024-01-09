@@ -126,7 +126,8 @@ section {
     padding-top: 48px;
     padding-left: 158px;
 }
-#t4{
+
+#t4 {
     padding-top: 68.11px;
     padding-right: 138px;
 }
@@ -134,4 +135,41 @@ section {
 .col {
     display: flex;
     justify-content: center;
+}
+
+.a3 {
+    padding-top: 120px;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 56px;
+    word-wrap: break-word;
+    text-align: center;
+
+}
+
+.alig {
+    padding-right: 386px;
+    padding-left: 385px;
+    padding-top: 100px;
+}
+
+.joinb {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    text-transform: uppercase;
+    word-wrap: break-word;
+    background: #FF0000;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: inline-flex;
+    padding: 16px 32px;
+    border-color: transparent;
+    margin-top: 48px;
 }
