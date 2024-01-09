@@ -2,10 +2,17 @@ body {
     width: 1600px;
     height: 7335px;
 }
-footer{
+
+footer {
     width: 1600px;
     height: 609px;
+    color: white;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
 }
+
 section {
     display: flex;
     justify-content: center;
@@ -362,10 +369,12 @@ input {
     border: none;
     padding: 25px 477px 25px 30px;
 }
-.box1{
+
+.box1 {
     border-radius: 50px 0px 0px 50px;
 }
-.box2{
+
+.box2 {
     border-radius: 0px 50px 50px 0px;
 }
 
@@ -379,4 +388,7 @@ input {
     font-weight: 600;
     text-transform: capitalize;
     word-wrap: break-word;
+}
+.col2{
+    display: flex;
 }
